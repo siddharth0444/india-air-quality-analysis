@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest==9.2.0
+ruff==0.17.5
+nbconvert==7.17.2
